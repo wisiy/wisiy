@@ -405,8 +405,7 @@
                    horiz-adv-x="1063"/>
 
 
-            <glyph glyph-name="triangle-r" unicode="&#58915;" d="M293.291 728.256l426.88-355.456-426.88-355.52z"
-                   horiz-adv-x="1024"/>
+            <glyph glyph-name="triangle-r" unicode="&#58915;" d="M293.291 728.256l426.88-355.456-426.88-355.52z" horiz-adv-x="1024"/>
 
 
             <glyph glyph-name="circle" unicode="&#58943;"
@@ -550,8 +549,7 @@
 
 
             <glyph glyph-name="triangle-d" unicode="&#58917;"
-                   d="M773.128299 88.65234199999998M889.696178 575.195553L158.862147 575.195553 524.357446 209.64704300000005 889.696178 575.195553Z"
-                   horiz-adv-x="1024"/>
+                   d="M773.128299 88.65234199999998M889.696178 575.195553L158.862147 575.195553 524.357446 209.64704300000005 889.696178 575.195553Z" horiz-adv-x="1024"/>
 
 
             <glyph glyph-name="tips" unicode="&#59138;"
@@ -599,8 +597,7 @@
                    horiz-adv-x="1024"/>
 
 
-            <glyph glyph-name="addition" unicode="&#58916;"
-                   d="M544 768L480 768 480 416 128 416 128 352 480 352 480 0 544 0 544 352 895.936 352 895.936 416 544 416Z"
+            <glyph glyph-name="addition" unicode="&#58916;" d="M544 768L480 768 480 416 128 416 128 352 480 352 480 0 544 0 544 352 895.936 352 895.936 416 544 416Z"
                    horiz-adv-x="1024"/>
 
 
@@ -864,9 +861,7 @@
                    horiz-adv-x="1024"/>
 
 
-            <glyph glyph-name="subtraction" unicode="&#59006;"
-                   d="M785 348H239c-19.8 0-36 16.2-36 36s16.2 36 36 36h546c19.8 0 36-16.2 36-36s-16.2-36-36-36z"
-                   horiz-adv-x="1024"/>
+            <glyph glyph-name="subtraction" unicode="&#59006;" d="M785 348H239c-19.8 0-36 16.2-36 36s16.2 36 36 36h546c19.8 0 36-16.2 36-36s-16.2-36-36-36z" horiz-adv-x="1024"/>
 
 
             <glyph glyph-name="mike" unicode="&#59100;"

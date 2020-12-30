@@ -14,4 +14,5 @@
 
 ##### 其他
 
-HomePc和notebook都提交到main分支
+1. HomePc和notebook都提交到main分支
+2. 在index.html中注释了两条数据位于第229行和第239行
